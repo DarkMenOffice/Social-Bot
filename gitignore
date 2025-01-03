@@ -1,0 +1,25 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directories (إذا كنت تستخدم بيئة افتراضية)
+venv/
+env/
+
+# Logs
+*.log
+
+# ملفات البيئة
+.env
+
+# ملفات تخص IDEs أو أدوات التحرير مثل VSCode
+.vscode/
+.idea/
+
+# تجاهل ملفات تخص النظام
+.DS_Store
+Thumbs.db
+
+# تجاهل مجلد chromedriver (إذا كنت لا ترغب في رفعه إلى GitHub)
+chromedriver/
