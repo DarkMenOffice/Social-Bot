@@ -19,4 +19,4 @@ This is an automation tool for logging into Facebook and Instagram, searching fo
 
    ```bash
    git clone https://github.com/your-username/dark-men-tool.git
-   cd dark-men-tool
+   cd Social-Bot
