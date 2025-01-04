@@ -20,3 +20,10 @@ This is an automation tool for logging into Facebook and Instagram, searching fo
    ```bash
    git clone https://github.com/your-username/dark-men-tool.git
    cd Social-Bot
+
+   python3 -m venv env
+   source env/bin/activate
+
+   pip install selenium
+
+   python main.py  
