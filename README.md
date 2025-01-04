@@ -15,8 +15,6 @@ This is an automation tool for logging into Facebook and Instagram, searching fo
 
 ### Linux / Termux:
 
-1. Clone this repository:
-
    ```bash
    git clone https://github.com/your-username/dark-men-tool.git
    cd Social-Bot
@@ -25,5 +23,6 @@ This is an automation tool for logging into Facebook and Instagram, searching fo
    source env/bin/activate
 
    pip install selenium
+   pip install colorama
 
    python main.py  
